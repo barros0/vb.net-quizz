@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D54E0EB-B823-45C5-9D3A-F867DF024CAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AIB_trabalho_pratico.My.MyApplication</StartupObject>
+    <RootNamespace>AIB_trabalho_pratico</RootNamespace>
+    <AssemblyName>AIB_trabalho_pratico</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AIB_trabalho_pratico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AIB_trabalho_pratico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ajuda1.Designer.vb">
+      <DependentUpon>ajuda1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ajuda1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajuda2.Designer.vb">
+      <DependentUpon>ajuda2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ajuda2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajuda3.Designer.vb">
+      <DependentUpon>ajuda3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ajuda3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajuda4.Designer.vb">
+      <DependentUpon>ajuda4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ajuda4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajuda5.Designer.vb">
+      <DependentUpon>ajuda5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ajuda5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajuda6.Designer.vb">
+      <DependentUpon>ajuda6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ajuda6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajuda7.Designer.vb">
+      <DependentUpon>ajuda7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ajuda7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="instrucoes.Designer.vb">
+      <DependentUpon>instrucoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="instrucoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menujogar.Designer.vb">
+      <DependentUpon>menujogar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menujogar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="opcoes.Designer.vb">
+      <DependentUpon>opcoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="opcoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pergunta1.Designer.vb">
+      <DependentUpon>pergunta1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pergunta1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pergunta2.Designer.vb">
+      <DependentUpon>pergunta2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pergunta2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pergunta3.Designer.vb">
+      <DependentUpon>pergunta3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pergunta3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pergunta4.Designer.vb">
+      <DependentUpon>pergunta4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pergunta4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pergunta5.Designer.vb">
+      <DependentUpon>pergunta5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pergunta5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pergunta6.Designer.vb">
+      <DependentUpon>pergunta6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pergunta6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pergunta7.Designer.vb">
+      <DependentUpon>pergunta7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pergunta7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registo.Designer.vb">
+      <DependentUpon>registo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="resultados.Designer.vb">
+      <DependentUpon>resultados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="resultados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="solucoes.Designer.vb">
+      <DependentUpon>solucoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="solucoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ajuda1.resx">
+      <DependentUpon>ajuda1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajuda2.resx">
+      <DependentUpon>ajuda2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajuda3.resx">
+      <DependentUpon>ajuda3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajuda4.resx">
+      <DependentUpon>ajuda4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajuda5.resx">
+      <DependentUpon>ajuda5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajuda6.resx">
+      <DependentUpon>ajuda6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajuda7.resx">
+      <DependentUpon>ajuda7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="instrucoes.resx">
+      <DependentUpon>instrucoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menujogar.resx">
+      <DependentUpon>menujogar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="opcoes.resx">
+      <DependentUpon>opcoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pergunta1.resx">
+      <DependentUpon>pergunta1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pergunta2.resx">
+      <DependentUpon>pergunta2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pergunta3.resx">
+      <DependentUpon>pergunta3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pergunta4.resx">
+      <DependentUpon>pergunta4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pergunta5.resx">
+      <DependentUpon>pergunta5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pergunta6.resx">
+      <DependentUpon>pergunta6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pergunta7.resx">
+      <DependentUpon>pergunta7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registo.resx">
+      <DependentUpon>registo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resultados.resx">
+      <DependentUpon>resultados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="solucoes.resx">
+      <DependentUpon>solucoes.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\[5 Minutos] Música para Meditação - Medite em 5 minutos!.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

@@ -1,0 +1,64 @@
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.exe.config
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.exe
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.pdb
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.xml
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.vbprojAssemblyReference.cache
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.Resources.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.vbproj.GenerateResource.cache
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.vbproj.CoreCompileInputs.cache
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.exe
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.xml
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pdb
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.menujogar.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.registo.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta1.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.instrucoes.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta2.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda1.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.opcoes.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.solucoes.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda2.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta3.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda3.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta4.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda4.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta5.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda5.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta6.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda6.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.Inicio.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta7.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda7.resources
+C:\Users\jpbar\source\repos\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.resultados.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.exe.config
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.exe
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.pdb
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\bin\Debug\AIB_trabalho_pratico.xml
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.vbprojAssemblyReference.cache
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda1.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda2.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda3.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda4.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda5.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda6.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.ajuda7.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.Inicio.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.instrucoes.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.menujogar.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.Resources.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.opcoes.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta1.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta2.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta3.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta4.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta5.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta6.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pergunta7.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.registo.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.resultados.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.solucoes.resources
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.vbproj.GenerateResource.cache
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.vbproj.CoreCompileInputs.cache
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.exe
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.xml
+C:\Users\jpbar\OneDrive\Ambiente de Trabalho\AIB_trabalho_pratico\AIB_trabalho_pratico\obj\Debug\AIB_trabalho_pratico.pdb
